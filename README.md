@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **microservice architecture**
 
-- 💬 Ask me about **react, nodeJs, apiRest, webSocket, astro, javaScript, expres.**
+- 💬 Ask me about **react, nodeJs, apiRest, webSocket, astro, javaScript, express.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/josemadrids/**
 
